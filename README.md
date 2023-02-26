@@ -1,7 +1,7 @@
-## Digital Clock
+# Digital Clock
 simple html/css/js digital clock with a bit of animations.
 
-#Features
+## Features
 1. Clock and time detect function
 2. Animation on hover/click
 3. Adaptive title
