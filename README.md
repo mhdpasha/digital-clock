@@ -1,5 +1,5 @@
 # Digital Clock
-A simple html/css/js digital clock with a bit of animations.
+Its a digital clock. with "unnecessary" animations :D (library testing)
 
 ## Features
 1. Clock and time detect functions
